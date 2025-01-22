@@ -1,4 +1,4 @@
- 30 Days DevOps Challenge - Weather Dashboard
+30 Days DevOps Challenge - Weather Dashboard
  
  Building a weather data collection system using AWS S3 and OpenWeather API
 
