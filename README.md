@@ -27,66 +27,53 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - `boto3` (AWS SDK)
   - `python-dotenv`
   - `requests`
- ## Project Structure
-weather-dashboard/  
-&nbsp;&nbsp;src/  
-&nbsp;&nbsp;&nbsp;&nbsp;__init__.py  
-&nbsp;&nbsp;&nbsp;&nbsp;weather_dashboard.py  
-&nbsp;&nbsp;tests/  
-&nbsp;&nbsp;data/  
-&nbsp;&nbsp;.env  
-&nbsp;&nbsp;.gitignore  
-&nbsp;&nbsp;requirements.txt  
-
-## Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aminatanimashaun31/weather-dashboard.git
+ 
 ## Project Structure
+
+```plaintext
 weather-dashboard/
-  src/
-    __init__.py
-    weather_dashboard.py
-  tests/
-  data/
-  .env
-  .gitignore
-  requirements.txt
+    src/
+        __init__.py
+        weather_dashboard.py
+    tests/
+    data/
+    .env
+    .gitignore
+    requirements.txt
 
-## Setup Instructions
-1. Clone the repository:
-```bash
-git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
-## Project Structure
-weather-dashboard/
-  src/
-    __init__.py
-    weather_dashboard.py
-  tests/
-  data/
-  .env
-  .gitignore
-  requirements.txt
+```
+## What I Learned
 
-## Setup Instructions
-1. Clone the repository:
-```bash
-git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
+- AWS S3 bucket creation and management
+- Environment variable management for secure API keys
+- Python best practices for API integration
+- Git workflow for project development**
+- Error handling in distributed systems
+- Cloud resource management
+## Future Enhancements
+- Add weather forecasting
+- Implement data visualization
+- Add more cities
+- Create automated testing
+- Set up CI/CD pipeline
+## How to navigate all of it as a beginner
+### Prerequisites
 
 
 
 
 
-weather-dashboard/
-  src/
-    __init__.py
-    weather_dashboard.py
-  tests/
-  data/
-  .env
-  .gitignore
-  requirements.txt
-git clone https://github.com/aminatanimashaun31/weather-dashboard.git
+
+
+
+
+
+
+
+
+
+
+
 
 
 
